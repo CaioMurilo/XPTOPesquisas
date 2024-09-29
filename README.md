@@ -1,9 +1,9 @@
-# XPTOPesquisas
-AT2 (Apresentação do projeto em Grupo) - Laboratório de Banco de Dados
+# XPTOPesquisas - AT2 - Laboratório de Banco de Dados
 
 Descrição do projeto:
 
 Para este projeto, considere que a sua equipe foi contratada pela empresa XPTOPesquisas para desenvolver um banco de dados para o registro de pesquisadores e projetos de pesquisa. A empresa tem por finalidade realizar pesquisas e estudos sociais e econômicos. Ela dá apoio técnico e institucional ao Estado brasileiro na avaliação, formulação e acompanhamento de políticas públicas e programas de desenvolvimento. Foram repassados os seguintes requisitos para a construção do modelo de dados:
+
 
 • O sistema tem a função de cadastrar pesquisadores e projetos. Cada pesquisador pode participar de apenas um projeto. Por sua vez, um projeto pode ter vários pesquisadores e ser financiado por uma fonte específica;
 
@@ -13,7 +13,7 @@ Para este projeto, considere que a sua equipe foi contratada pela empresa XPTOPe
 
 • Após o cadastro dos dados, realize as seguintes consultas SQL: o Liste os projetos e suas fontes financiadoras, incluindo o nome do projeto e o nome da fonte financiadora;
 
-• o Liste os projetos gerenciados pelos departamentos, incluindo o nome do projeto e o nome do departamento;
+• Liste os projetos gerenciados pelos departamentos, incluindo o nome do projeto e o nome do departamento;
 
 • Liste os pesquisadores presentes na filial "NORTE", incluindo o nome do pesquisador e a filial do departamento;
 
@@ -28,6 +28,8 @@ Para este projeto, considere que a sua equipe foi contratada pela empresa XPTOPe
 • Liste o estado que mais possui pesquisadores, apresentando a quantidade de pesquisadores;
 
 • Liste todos os projetos (nome do projeto, departamento, filial departamento, fonte financiadora, valor a investir da fonte financiadora e valor do projeto), considerando a ordem de maior valor a ser investido.
+
+
 
 A equipe deverá produzir os seguintes resultados:
 
